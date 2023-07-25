@@ -2,7 +2,7 @@
  
 Machine learning researcher and data scientist based in San Diego 🌴
 
-[Email](mailto:foadgreen@gmail.com)  /  [Personal Website](https://wwww.foadgreen.com)  /  [LinkedIn](https://www.linkedin.com/in/foadgreen) /  [Github](https://wwww.github.com/foadgr)
+[Email](mailto:foadgreen@gmail.com)  /  [Personal Website](https://www.foadgreen.com)  /  [LinkedIn](https://www.linkedin.com/in/foadgreen) /  [Github](https://wwww.github.com/foadgr)
 
 ---
 
